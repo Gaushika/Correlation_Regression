@@ -61,5 +61,5 @@ plt.show()
 ```
 # Output 
 <img width="630" height="322" alt="image" src="https://github.com/user-attachments/assets/6b773849-2122-47ea-8ac6-fb6e4d68df64" />
-# Result 
-Correlation and regression for data analysis arrivals of objects from feeder using probability distribution are calculated.
+# Result
+  Correlation and regression for data analysis arrivals of objects from feeder using probability distribution are calculated.
